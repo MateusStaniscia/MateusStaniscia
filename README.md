@@ -2,9 +2,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusStaniscia&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusStaniscia&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
 
 <br>
 
